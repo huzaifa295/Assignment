@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    width: 80%;
+    margin: 5% auto;
+    justify-content: space-between;
+    gap: 4%;
+}
+.card{
+    margin-top: 5%;
+}
